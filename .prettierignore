@@ -1,0 +1,9 @@
+dist
+build
+node_modules
+*.log
+package-lock.json
+yarn-lock*
+bun-lock*
+README.md
+.gitignore
